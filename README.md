@@ -1,2 +1,2 @@
 # CHURN-PREDICTION-IN-TELECOM-INDUSTRY
-churn prediction using jupyter
+churn prediction using python in jupyter
